@@ -1,0 +1,13 @@
+{
+
+  "dependencies": {
+    "expres": "^0.0.5",
+    "open": "^9.1.0",
+    "opn": "^6.0.0",
+    "yargs": "^17.7.2"
+  },
+  "name": "note",
+  "bin": {
+    "note": "./index.js"
+  }
+}

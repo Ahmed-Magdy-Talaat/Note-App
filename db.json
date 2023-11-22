@@ -1,0 +1,24 @@
+{
+  "notes": [
+    {
+      "tags": "work,go,sleep",
+      "content": "Clean your room",
+      "id": 1698628957344
+    },
+    {
+      "tags": "work,sleep",
+      "content": "go to work",
+      "id": 1698628978330
+    },
+    {
+      "tags": "sport,tennis",
+      "content": "play tennis",
+      "id": 1698629021336
+    },
+    {
+      "tags": "work,gym",
+      "content": "go to gym",
+      "id": 1698629038199
+    }
+  ]
+}
